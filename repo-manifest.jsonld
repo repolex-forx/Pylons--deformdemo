@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/Pylons/deformdemo/commit/a54e82d97cbe07da4df207757765f462b0e0d67c",
       "git:hexsha": "a54e82d97cbe07da4df207757765f462b0e0d67c",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/Pylons/deformdemo/commit/c35b9bed6a897f48aaf4ac94bbbefcfddecae9ae",
